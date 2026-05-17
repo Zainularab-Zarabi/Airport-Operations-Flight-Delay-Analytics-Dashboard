@@ -43,9 +43,9 @@ The Power BI dashboard includes:
 
 ## Screenshots
 
-width="800" height="368" alt="plane" src="https://github.com/user-attachments/assets/c530f3f1-d8c5-4661-a119-7ef2e3e47a75" 
- width="799" height="368" alt="plane2" src="https://github.com/user-attachments/assets/a6c74799-0b4f-472e-9159-b50aa06ef761" 
+![Dashboard 1](./images/plane.png)
 
+![Dashboard 2](./images/plane2.png)
 
 
 ## Key Insights
