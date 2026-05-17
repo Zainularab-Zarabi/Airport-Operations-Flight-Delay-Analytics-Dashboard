@@ -13,7 +13,7 @@ The main goal of this project is to transform airport operation data into clear 
 - Evaluate ground processing time
 - Include passenger feedback insights
 - Enable filtering by time period, source airport, and destination airport
-- Support drill-down analysis for selected flight periods
+- Support drill down analysis for selected flight periods
 
 ---
 
@@ -21,8 +21,6 @@ The main goal of this project is to transform airport operation data into clear 
 - Dataset type: Airline delays and cancellation data
 - Year used: 2018 only
 - Source: Kaggle
-- Main focus: airport operations, delays, and passenger feedback
-
 ---
 
 ## Dashboard Features
@@ -45,24 +43,12 @@ The Power BI dashboard includes:
 
 ## Screenshots
 
-![Airport Operations Dashboard Thumbnail](images/project-thumbnail.png)
+![Airport Operations Dashboard](<img width="800" height="368" alt="plane" src="https://github.com/user-attachments/assets/c530f3f1-d8c5-4661-a119-7ef2e3e47a75" />
+.png)
+![Airport Operations Dashboard](<img width="799" height="368" alt="plane2" src="https://github.com/user-attachments/assets/a6c74799-0b4f-472e-9159-b50aa06ef761" />
+.png)
 
-> Replace this thumbnail with real Power BI dashboard screenshots when available.
 
-Recommended screenshot names:
-```text
-images/dashboard-overview.png
-images/delay-analysis.png
-images/passenger-feedback.png
-```
-
-Then add them to this README using:
-
-```md
-![Dashboard Overview](images/dashboard-overview.png)
-![Delay Analysis](images/delay-analysis.png)
-![Passenger Feedback](images/passenger-feedback.png)
-```
 
 ## Key Insights
 - Flight activity and delay patterns can be monitored using KPI cards and trend visuals
