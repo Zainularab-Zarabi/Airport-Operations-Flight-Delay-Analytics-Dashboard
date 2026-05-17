@@ -1,0 +1,9 @@
+Dataset Source:
+Airline Delays and Cancellation Dataset (2018)
+
+Originally provided through course case study materials based on publicly available airline delay datasets.
+
+This project focuses only on 2018 airport operation and flight delay data used for dashboard analysis in Power BI.
+
+Note:
+The raw dataset is not included in this repository. The Power BI file contains the dashboard model used for analysis.
